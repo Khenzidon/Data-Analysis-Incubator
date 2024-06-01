@@ -28,7 +28,9 @@ I as well Investigate if there was a correlation between a participant's highest
 The marital status of the participant were also into cosideration as there could be trends between marital status and their participation in the bootcamp.
 
 ## Data Visualization
-![]()
+![](fcb.png)
+![](fcb 2.png)
+
 
 ## Key Takeaways
 Most survey participants were aged 26 to 35. This 	age group had twice as many respondents (115) 	as all other age groups combined
