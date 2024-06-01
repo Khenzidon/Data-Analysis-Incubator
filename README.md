@@ -22,10 +22,7 @@ This is where all sources of data collected are referenced and mentioned
 
 ## Data Analysis
 
-The data analyzed the percentage of male and female participants and also visualized the age distribution amongst the participant
-I was also able to analyze the most common education attainment and explored the geographical location spread of each participants.
-I as well Investigate if there was a correlation between a participant's highest level of education and their prior occupation.
-The marital status of the participant were also into cosideration as there could be trends between marital status and their participation in the bootcamp.
+The data analyzed the percentage of male and female participants and also visualized the age distribution amongst the participant. I was also able to analyze the most common education attainment and explored the geographical location spread of each participants. I as well Investigate if there was a correlation between a participant's highest level of education and their prior occupation. The marital status of the participant were also into cosideration as there could be trends between marital status and their participation in the bootcamp.
 
 ## Data Visualization
 ![](fcb.png)
