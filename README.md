@@ -1,8 +1,7 @@
 # FCB DTA Class Student Analysis
-
+This report details the analysis of student data from a recent data analyst bootcamp. The objective is to understand the program's demographics and identify any trends or patterns related to student background and participation.
 ## Project outline
 ---
-This report details the analysis of student data from a recent data analyst bootcamp. The objective is to understand the program's demographics and identify any trends or patterns related to student background and participation.
 Name 
 Email address 
 Gender
@@ -19,48 +18,34 @@ This is where all sources of data collected are referenced and mentioned
 ## Tools utilized
 - MS Excel ***[Download here](https://www.microsoft.com)***
 - MS Power BI
-- Python
-- **SQL**
+- Google Forms
 
-Data Analysis
+## Data Analysis
 
-1. Demographics
+The data analyzed the percentage of male and female participants and also visualized the age distribution amongst the participant
+I was also able to analyze the most common education attainment and explored the geographical location spread of each participants.
+I as well Investigate if there was a correlation between a participant's highest level of education and their prior occupation.
+The marital status of the participant were also into cosideration as there could be trends between marital status and their participation in the bootcamp.
 
-Gender distribution: Analyze the percentage of male and female participants.
-Age distribution: Visualize the age range of participants using histograms or boxplots. Calculate the average age group.
-Educational background: Identify the most common educational attainment (e.g., Bachelor's degree, Master's degree).
-Location: Explore the geographical spread of participants. Consider creating a map visualization if locations are not privacy-sensitive.
-2. Relationships
+## Data Visualization
+![]()
 
-Occupation and education: Investigate if there's a correlation between a participant's highest level of education and their prior occupation.
-3. Additional Considerations
+## Key Takeaways
+Most survey participants were aged 26 to 35. This 	age group had twice as many respondents (115) 	as all other age groups combined
+With 58.08%, males were the majority gender in 	the survey. 2:45 and 2:46 recorded the highest number of 	completed forms, 29 each, totaling at 58.
 
-Marital status and participation: Analyze if there are any trends between marital status and participation (e.g., course completion rates).
-Data Visualization
 
-Utilize charts and graphs (bar charts, pie charts, heatmaps) to effectively represent the findings from the analysis.
-Key Takeaways
+- The survey showed the highest response rate (81.44%) among participants with HND/BSc qualifications.
+- Self-employed individuals made up 38.32% of the respondents in the survey on occupational levels.
+- The survey on marital status found 82.63% of 	respondents were single.
 
-Summarize the main insights from the data analysis.
-Highlight any interesting trends or patterns observed.
-Limitations
 
-Briefly acknowledge any limitations of the data or the analysis conducted.
-Conclusion
+
+## Conclusion
 
 This data analysis provides valuable insights into the demographics and background of the bootcamp participants. Understanding these characteristics can be used to improve the program's outreach strategies, cater to diverse learning styles, and potentially predict student success based on prior qualifications
-```
 
-Google Query Sheet
 
-SELECT * FROM TABLE 1
-WHERE CONDITION = MET
 
-```
-![](IMG_1637.jpg)
-
-|Heading 1 | Heading 2| Heading 3|
-|----------| ---------| ---------|
-|Data 1| Data 2| Data 3|
 
 
