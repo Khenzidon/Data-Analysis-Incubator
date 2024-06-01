@@ -28,7 +28,7 @@ Diving into the bootcamp participant data, I started with demographics.  I was c
 
 ## Key Takeaways
 Most survey participants were aged 26 to 35. This 	age group had twice as many respondents (115) 	as all other age groups combined
-With 58.08%, males were the majority gender in 	the survey. The peak time of completion of the survey was about 1 minute where about 29 people completed forms within that time span
+With 58.08%, males were the majority gender in 	the survey. The peak time of completion of the survey was about 1 minute where about 58 people completed forms within that time span
 
 
 - The survey showed the highest response rate (81.44%) among participants with HND/BSc qualifications.
