@@ -1,19 +1,16 @@
 # FCB DTA Class Student Analysis
 This report details the analysis of student data from a recent data analyst bootcamp. The objective is to understand the program's demographics and identify any trends or patterns related to student background and participation.
 ## Project outline
+- Data Sources
+- Tools Utilized
+- Data Analysis
+- Data Visualization
+- Key Takeaways
+- Conclusion
 ---
-Name 
-Email address 
-Gender
-Marital status
-Unique code (for internal tracking)
-Residential location
-Age group
-Highest level of education
-Occupation
 
 ## Data Sources
-This is where all sources of data collected are referenced and mentioned  
+Google Form 
 
 ## Tools utilized
 - MS Excel ***[Download here](https://www.microsoft.com)***
@@ -22,7 +19,7 @@ This is where all sources of data collected are referenced and mentioned
 
 ## Data Analysis
 
-The data analyzed the percentage of male and female participants and also visualized the age distribution amongst the participant. I was also able to analyze the most common education attainment and explored the geographical location spread of each participants. I as well Investigate if there was a correlation between a participant's highest level of education and their prior occupation. The marital status of the participant were also into cosideration as there could be trends between marital status and their participation in the bootcamp.
+Diving into the bootcamp participant data, I started with demographics.  I was curious about the gender makeup, so I analyzed the percentage of male and female participants. Age was another key factor.  To understand the typical participant age range, I visualized the age distribution with charts. Next, I looked at educational backgrounds. I identified the most common level of education attained by the participants, such as Bachelor's degrees, Master's degrees, or something else entirely. Geographical diversity was also interesting. By exploring the location data, I could see where students were coming from across the country. But it wasn't just about demographics.  I wanted to see if there were any deeper connections. For example, was there a correlation between a participant's highest level of education and their prior occupation? Maybe people with higher degrees came from specific fields. So, I investigated any potential links there. Finally, I considered marital status.  It was worth exploring if there were any trends between being married or single and participation in the bootcamp. This could be a valuable insight for the program in terms of outreach strategies
 
 ## Data Visualization
 ![](fcb.png)
