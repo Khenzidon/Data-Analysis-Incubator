@@ -29,7 +29,7 @@ The marital status of the participant were also into cosideration as there could
 
 ## Data Visualization
 ![](fcb.png)
-![](fcb_2.png)
+![](fcb2.png)
 
 
 ## Key Takeaways
